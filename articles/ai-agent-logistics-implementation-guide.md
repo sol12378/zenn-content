@@ -3,7 +3,7 @@ emoji: "🚚"
 title: "運送業のAIエージェント導入ガイド｜DX実装で配車時間80%削減・人手不足解決"
 topics: ["AI", "AIエージェント", "DX", "物流", "運送業"]
 type: "tech"
-published: true
+published: false
 ---
 
 # 運送業のAIエージェント導入ガイド｜DX実装で配車時間80%削減・人手不足解決

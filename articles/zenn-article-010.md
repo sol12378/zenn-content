@@ -1,13 +1,6 @@
 ---
-article_id: ARTICLE-010
-author: kei
-created_at: 2026-04-13
 emoji: 🔍
-platform: zenn
 published: true
-published_at: 2026-04-18 09:00:00+09:00
-status: ready-to-publish
-target_publish: 2026-04-18
 title: AIガバナンスツールを自作した話 — LLM監査の実装記録
 topics:
 - LLM
