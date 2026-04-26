@@ -1,6 +1,6 @@
 ---
 emoji: ⚡
-published: false
+published: true
 title: Claude Code のトークン消費を半分にした5つのテクニック
 topics:
 - claude-code

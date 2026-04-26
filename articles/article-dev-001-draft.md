@@ -1,6 +1,6 @@
 ---
 emoji: 💻
-published: false
+published: true
 title: MacBook Air 2017（8GB RAM）でAIエージェント組織を運営してみた — CPUファンが悲鳴を上げた日々
 topics:
 - claude-code
