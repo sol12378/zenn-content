@@ -1,7 +1,7 @@
 ---
 emoji: 💻
 published: true
-published_at: "2026-04-27T09:10:00+09:00"
+published_at: "2026-04-27 09:10"
 title: MacBook Air 2017（8GB RAM）でAIエージェント組織を運営してみた — CPUファンが悲鳴を上げた日々
 topics:
 - claude-code
