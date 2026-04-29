@@ -4,7 +4,7 @@ created_at: '2026-04-29'
 description: 「このAIエージェント、本当に信頼できるのか？」を定量化する仕組みを解説。FastAPI + Supabase + Next.jsで構築したLLM品質監査基盤MAGI
   Auditの設計思想とアーキテクチャを公開します。
 emoji: 🔬
-published: false
+published: true
 status: draft
 target_word_count: 3500
 title: AIエージェントの品質を可視化する——MAGI Auditのアーキテクチャ解説
