@@ -1,5 +1,5 @@
 ---
-title: "Next.jsでLINE WORKS API OAuth・Bot・Webhook・定期通知まで実装する完全ガイド"
+title: "Next.jsでLINE WORKS API・OAuth・Bot・Webhook・定期通知まで実装する完全ガイド"
 emoji: "🔍"
 type: "tech"
 topics: ["lineworks", "nextjs", "oauth", "webhook", "bot"]
